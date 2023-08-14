@@ -17,6 +17,29 @@ Repository dedicated to list, explain and give examples of some commands that we
 | `mount `| Monta un sistema de archivos |
 | `nano <archivo> `| Crea o modifica un archivo de texto |
 | `echo <texto> `| Muestra texto en la terminal |
+| cp | Copia un archivo o carpeta |  
+| mv | Mueve un archivo o carpeta |  
+| rm | Elimina un archivo |
+| rmdir | Elimina un directorio |
+| chmod | Modifica los permisos de un archivo |
+| systemctl start "proceso" | Inicia un proceso |
+| systemctl restart "proceso" | Reinicia un proceso |
+| systemctl stop "proceso" | Detiene un proceso |
+| systemctl enable "proceso" | Habilita un proceso |
+| systemctl status "proceso" | Muestra el estado un proceso |
+| kill | Finaliza un proceso |  
+| wget "página web" | Permite descargar archivos de Internet |  
+| docker run hello-world | Verifica que docker esté funcionando correctamente | 
+| docker search "imagen" | Busca una imagen de docker | 
+| docker pull "imagen" | Instala una imagen de docker | 
+| docker docker run "imagen" | Ejecuta una imagen de docker | 
+| docker docker images | Muestra todas las imágenes instaladas | 
+| docker ps -a | Muestra el estado de las imágenes | 
+| docker start | Inicia un contenedor | 
+| docker stop | Detiene un contenedor |
+| docker rmi | Elimina imagen instalada |  
+| docker rm "id" | Elimina contenedor |  
+| docker run --rm "imagen" | Elimina contenedor
 | `cat `| Muestra lo que hay en un archivo de texto |
 | `sudo apt upgrade <software name>` | Instala todas las actualizaciones disponibles de los paquetes instalados en tu equipo. | 
 | `sudo apt apt-get upgrade <software name>` |  Igual al anterior pero este no elimina las versiones antiguas de los paquetes instalados o actualizables del sistema que ya no se necesitan al realizar la actualización. |  
