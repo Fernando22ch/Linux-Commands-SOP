@@ -45,5 +45,8 @@ Repository dedicated to list, explain and give examples of some commands that we
 | `docker rmi `| Elimina imagen instalada |  
 | `docker rm <id> `| Elimina contenedor |  
 | `docker run --rm <imagen> `| Elimina contenedor |
-
-
+#Laboratorio #04 Manjaro Linux y Comandos
+| `sudo pacman -S` |  Se utiliza para instalar uno o varios paquetes en sistemas basados en Arch Linux  | `sudo pacman -S <nombre_paquete1> <nombre_paquete2>`. |
+| `sudo pacman -Sy` | Imprime en pantalla una cadena de texto. | `echo "Hola"` imprimiría Hola en la salida de la terminal. |
+| `sudo pacman -S unrar zip unzip gzip bzip2` | Se utiliza para instalar una serie de utilidades de compresión y descompresión en sistemas basados en Arch Linux. | `echo "Hola"` imprimiría Hola en la salida de la terminal. |
+| `echo` | Imprime en pantalla una cadena de texto. | `echo "Hola"` imprimiría Hola en la salida de la terminal. |
