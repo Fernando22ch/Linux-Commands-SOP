@@ -1,4 +1,4 @@
-![image](https://github.com/Fernando22ch/Linux-Commands-SOP/assets/102065550/40c7727d-b20a-4204-8fa8-725bd061d743)# Linux-Commands-SOP
+
 Repository dedicated to list, explain and give examples of some commands that were used on the course Operative Sistems on Ulacit.
 
 | Comando | Descripción | Ejemplo de uso |
