@@ -1,4 +1,3 @@
-
 Repository dedicated to list, explain and give examples of some commands that were used on the course Operative Sistems on Ulacit.
 
 | Comando | Descripción | Ejemplo de uso |
@@ -10,10 +9,10 @@ Repository dedicated to list, explain and give examples of some commands that we
 | `cp <origen> <destino>` | Copia un archivo (o directorio si se usa el flag `-r`) de un origen a un destino. | `cp -r ~/Ulacit/* ~/` para copiar todo el contenido de la carpeta llamada Ulacit al home del usuario actual. |
 | `echo` | Imprime en pantalla una cadena de texto. | `echo "Hola"` imprimiría Hola en la salida de la terminal. |
 | `htop` | Muestra la lista de procesos y una aplicación de modo de texto para la supervisión del sistema en tiempo real. |` 
-| `adduser <nombre de usuario>` | Crea un nuevo usuario |
+| `adduser <nombre de usuario>` | Crea un nuevo usuario | `adduser fchavesc22ch` Se crea un nuevo usuario en 
 | `passwd <nombre de usuario>` | Cambia la contraseña de un usuario |
-| `history` | Historial de comandos |
-| `sudo su` | Cambiar  a super usuario |
+| `history` ` Historial de comandos | `history` lista los comandos anteriormente digitados, `history -c` elimina el histórico para evitar que sea usado en contra tuya|.
+| `sudo su` | Cambiar a super usuario |
 | `mount `| Monta un sistema de archivos |
 | `nano <archivo> `| Crea o modifica un archivo de texto |
 | `echo <texto> `| Muestra texto en la terminal |
